@@ -1,0 +1,9 @@
+{
+  "name": "personal-injury-seo-artifacts",
+  "version": "1.0.0",
+  "description": "SEO resources and guides for personal injury lawyers",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site - no start needed'"
+  }
+}
